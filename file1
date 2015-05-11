@@ -1,4 +1,6 @@
-This is file1, dawg. There are many others like it, but this one is mine. 
+<<<<<<< HEAD
+This is file1, dawg. There are many others like it, but this one has resolved conflicting changes on the first line.  
+>>>>>>> foo_feature
 Well...treehouse's really, but that doesn't sound as good. 
 
 
